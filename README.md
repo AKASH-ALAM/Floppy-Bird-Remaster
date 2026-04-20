@@ -45,6 +45,9 @@ This project utilizes custom 2D textures and sounds which you will find under th
 * **Score:** `point.ogg` - Plays when successfully passing a pipe.
 * **Crash:** `die.ogg` - Plays upon collision with a pipe or the ground.
 
+### Game Screen
+![WELCOME SCREEN](Welcome_Screen.png)
+![GAME QUIT SCREEN](Quit_Screen.png)
 ---
 
 ## ⚙️ Installation & Setup
